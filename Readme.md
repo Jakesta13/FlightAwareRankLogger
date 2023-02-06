@@ -10,4 +10,5 @@ What is this you may ask?
 I was having issues running this script in a `tmux` session from a contab on `@reboot`, but running a script that literally just runs the main script was enough to make it work? idk if it was just my setup, so I left it in.
 
 ## To-Do
-In the future I plan on commenting the scripts so it is easier to understand.
+* In the future I plan on commenting the scripts so it is easier to understand.
+* May also adjust timing, or make it a setting to make it easier for the user to edit.
